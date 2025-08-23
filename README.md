@@ -19,10 +19,6 @@
 
 ---
 
-![Snake animatio](https://github.com/JessicaBAlves/JessicaBAlves/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🚀 Projetos em destaque
 - 📂 [Nome do Projeto 1](link_para_o_projeto) → pequena descrição do que ele faz  
 - 📂 [Nome do Projeto 2](link_para_o_projeto) → pequena descrição do que ele faz  

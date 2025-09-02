@@ -8,7 +8,8 @@
 ---
 
 ### 🔗 Onde me encontrar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jéssica-alves-515b70133)  
+### 🌐 Me encontre também no LinkedIn:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jéssicabalves)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jessica-alves)
 
 ---

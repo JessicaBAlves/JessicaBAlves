@@ -30,5 +30,4 @@
 ✨ *"Transformando desafios em oportunidades."*  
 
 
---> https://github.com/JessicaBAlves/JessicaBAlves/blob/output/github-contribution-grid-snake.svg
 

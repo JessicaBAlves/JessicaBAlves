@@ -16,7 +16,13 @@
 
 ### 📊 Minhas estatísticas no GitHub
 ![Jéssica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessica-alves&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-alves&layout=compact&theme=tokyonight)
+Tecnologias que estudo e quero trabalhar:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+</p>
+
 
 ---
 

@@ -25,7 +25,6 @@
 
 ### 🚀 Projetos em destaque
 - 📂 Calculadora Orçamento Pessoal (https://jessicabalves.github.io/calculadora/) → Esta é uma calculadora web interativa desenvolvida com React e Chart.js, que permite realizar operações matemáticas básicas e visualizar os resultados de forma gráfica. O projeto combina funcionalidade e simplicidade, oferecendo uma experiência intuitiva e visualmente agradável.
-- 📂 [Nome do Projeto 2](link_para_o_projeto) → pequena descrição do que ele faz  
 - 📂 Quiz ADS (https://github.com/JessicaBAlves/Quiz-ADS.git) → Quiz para testar os conhecimentos em ADS.
 
 ---
